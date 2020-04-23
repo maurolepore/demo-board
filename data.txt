@@ -2,4 +2,5 @@
   name: my_data
   rows: 32
   cols: 11
+  description: Some data
   type: table
